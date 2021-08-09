@@ -1,11 +1,3 @@
-Jun Group Android Developer Take Home Test
-
-Assignment:
-1. Fork this repository.
-2. Get the device's current location and pull the weather from weather.gov. 
-3. Update the UI.  
-4. Send a pull request.
-
-API Documentation:
-https://www.weather.gov/documentation/services-web-api
+![Image](https://github.com/jmora13/CloudyWeatherApp/blob/master/Screenshot_20210808-234730_JunGroup_Weather_20.jpg?raw=true)
+![Image](https://github.com/jmora13/PropellerHealthAssistant/blob/master/Screenshot_20210808-233859_Health_Assistant_20.jpg?raw=true)
 
